@@ -11,7 +11,7 @@ public class Main {
         DieBye diabye = new DieBye();
         System.out.println("hello");
         System.out.println("try jenkins");
-        System.out.println("try jenkins11111")
+        System.out.println("try jenkins11111");
 
         System.out.println(die.getStr());
         System.out.println(diabye.getStr());
