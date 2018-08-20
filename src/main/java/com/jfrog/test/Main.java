@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         Die die = new Die();
         DieBye diabye = new DieBye();
-        DieHi diehi = new DieHi();
+        DieHi DieHi = new DieHi();
         System.out.println("hello");
         System.out.println("Maven project one");
 
