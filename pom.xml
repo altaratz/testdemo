@@ -6,7 +6,7 @@
 
     <groupId>com.jfrog.test</groupId>
     <artifactId>test-demo</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-release</version>
 
 
 </project>
