@@ -12,6 +12,7 @@ public class Main {
         DieBye diabye = new DieBye();
         System.out.println("hello");
         System.out.println("Maven project one");
+        System.out.println("just a test");
 
 
         System.out.println(die.getStr());
