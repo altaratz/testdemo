@@ -11,6 +11,7 @@ public class Main {
         DieHi diehi = new DieHi();
         DieBye diabye = new DieBye();
         DieMy diemy = new DieMy();
+        DieSay diesay = new DieSay();
         System.out.println("hello");
         System.out.println("Maven project one");
         System.out.println("just a test");
@@ -20,6 +21,7 @@ public class Main {
         System.out.println(diabye.getStr());
         System.out.println(diehi.getStr());
         System.out.println(diemy.getStr());
+        System.out.println(diesay.getStr());
     }
 
 }
