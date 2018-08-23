@@ -5,7 +5,7 @@ package com.jfrog.test;
  */
 public class DieHi {
 
-    private String str = "Boker Tov";
+    private String str = "Boker = Tov";
 
     public DieHi() {
     }
