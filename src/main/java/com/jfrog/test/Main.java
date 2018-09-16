@@ -12,9 +12,10 @@ public class Main {
         DieBye diabye = new DieBye();
         DieMy diemy = new DieMy();
         DieSay diesay = new DieSay();
-        System.out.println("hello user");
-        System.out.println("Maven project one");
-        System.out.println("just a test");
+        System.out.println("hello frog");
+        System.out.println("welcome to the swamp");
+        System.out.println("don't be");
+        System.out.println("just another frog");
 
 
         System.out.println(die.getStr());
