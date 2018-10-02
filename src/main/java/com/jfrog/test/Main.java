@@ -21,6 +21,7 @@ public class Main {
         System.out.println(die.getStr());
         System.out.println(diabye.getStr());
         System.out.println(diehi.getStr());
+        System.out.println(diehi.getStr1());
         System.out.println(diemy.getStr());
         System.out.println(diesay.getStr());
     }
