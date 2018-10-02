@@ -5,7 +5,7 @@ package com.jfrog.test;
  */
 public class DieBye {
 
-    private String str = "Udi = test1";
+    private String str = "Udi = test25";
 
     public DieBye() {
     }
